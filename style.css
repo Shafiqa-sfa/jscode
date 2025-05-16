@@ -1,0 +1,21 @@
+
+h1{
+    color: brown;
+    font: size 50px;
+    background-color: color(srgb red green blue);
+}
+h4{
+    color: darkslategrey;
+    font-size: xx-large;
+    background-color: white;
+    background-image: linear-gradient(green,azure,green);
+    padding: 30px;
+    border-color:color-mix(in hsl shorter hue, color percentage, color percentage) ;
+    border-style: dashed;
+    border-width: 2px;
+    margin: 2cm;
+}
+p{
+    color: cadetblue;
+    font-size: 0.7cm;
+}
